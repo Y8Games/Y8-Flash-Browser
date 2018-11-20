@@ -1,5 +1,9 @@
 # Y8 Browser Download
 
-The Y8 Browser is a desktop app to let you play Flash games and modern games at Y8.com. Windows, Mac, Linux support.
+They said Flash was dead and we we didn't have an exe. Wrong! The Y8 browser gives you games at the best performance including limited legancy platforms like Flash. Plus, all the modern horsepower of the Chromium engine for rich webgl games in the desktop.
 
-Download from the <a href="https://github.com/Y8Games/Y8-Browser-releases/releases">Releases Page</a>
+<img src="screenshot.png">
+![Y8 Browser preview](https://github.com/Y8Games/Y8-Browser-releases/blob/master/screenshot.png?raw=true)
+
+Currently, Windows and Linux support.
+<a href="https://github.com/Y8Games/Y8-Browser-releases/releases">Download Page</a>

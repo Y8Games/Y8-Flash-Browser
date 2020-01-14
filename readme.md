@@ -1,4 +1,4 @@
-# Y8 Flash Browser
+# Y8 Flash Browser (for desktops)
 
 <img src="screenshot.png">
 
